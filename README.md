@@ -1,16 +1,30 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=header"/>
+<h2 align="center" style="color: #e83d84;">Ladies And Gentlemen</h2>
+<div>
 
-<!--
-**jessicayohana/jessicayohana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Jéssica+Yohana+Otto;I'm+24+years+old;I+am+from+Joinville,+SC)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/jessicayohana">
+  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=jessicayohana&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/jessicayohana">
+  <img width=395 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicayohana&layout=compact&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/jessicayohana/jessicayohana"/>
+</a>
+  
+</div>
+
+##
+[![jessica yohana otto graphs](https://github-readme-activity-graph.vercel.app/graph?username=jessicayohana&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/jessicayohana/jessicayohana)
+
+<div style="display: inline_block width: 45%"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+##
