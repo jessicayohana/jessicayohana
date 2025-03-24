@@ -3,7 +3,7 @@
 <div>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Jéssica+Yohana+Otto;I'm+24+years+old;I+am+from+Joinville,+SC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Jéssica+Yohana+Otto;I'm+24+years+old;I+am+a CRM+consultant and+implementer)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,10 +21,9 @@
 [![jessica yohana otto graphs](https://github-readme-activity-graph.vercel.app/graph?username=jessicayohana&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/jessicayohana/jessicayohana)
 
 <div style="display: inline_block width: 45%"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/php-logo-1.png">
+  <img align="center" alt="Bitrix24" height="30" width="40" src="https://th.bing.com/th/id/OIP.n7YyXd1P2pHSnfiPAtxYXAHaHa?rs=1&pid=ImgDetMain">
+  <img align="center" alt="Microsoft Office" height="30" width="40" src="https://th.bing.com/th/id/OIP.eEMKTxWONz1-9gvXDBatxQHaHa?rs=1&pid=ImgDetMain">
 </div>
 
 ##
