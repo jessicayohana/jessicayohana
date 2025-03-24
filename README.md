@@ -3,7 +3,7 @@
 <div>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Jéssica+Yohana+Otto;I'm+24+years+old)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Jéssica+Yohana+Otto;I'm+24+years+old;I'm+a+CRM+Consultant+and+Implementer)](https://git.io/typing-svg)
 
 </div>
 
