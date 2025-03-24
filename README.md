@@ -10,16 +10,17 @@
 
 <div align="center">
   <a href="https://github.com/jessicayohana">
-  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=jessicayohana&bg_color=30,a46b9d,904e95&title_color=fff&text_color=fff" />
+  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=jessicayohana&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/jessicayohana">
-  <img width=395 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicayohana&layout=compact&bg_color=ab77a5&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/jessicayohana/jessicayohana"/>
+  <img width=395 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicayohana&layout=compact&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/jessicayohana/jessicayohana"/>
 </a>
   
 </div>
 
 ##
-[![jessica yohana otto graphs](https://github-readme-activity-graph.vercel.app/graph?username=jessicayohana&bg_color=ab77a5&color=a46b9d&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/jessicayohana/jessicayohana)
+[![jessicayohana graphs](https://github-readme-activity-graph.vercel.app/graph?username=jessicayohana&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/jessicayohana/jessicayohana)
+
 
 <div style="display: inline_block width: 45%"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/php-logo-1.png">
